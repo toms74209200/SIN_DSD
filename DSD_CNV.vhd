@@ -89,7 +89,7 @@ process (CLK, nRST) begin
 	elsif (CLK'event and CLK = '1') then
 		if (SEL = "1000") then
 			if (EN = '1') then
-				int_d <= ('0' & int_d(13 downto 0)) + ("0000" & PDAT);
+				int_d <= ('0' & int_d(14 downto 0)) + ("0000" & PDAT);
 			else
 				int_d <= (others => '0');
 			end if;

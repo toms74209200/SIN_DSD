@@ -1,0 +1,147 @@
+-- Copyright (C) 1991-2010 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=12;
+DEPTH=125;
+
+ADDRESS_RADIX=UNS;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	0    :   819;
+	1    :   833;
+	2    :   84D;
+	3    :   866;
+	4    :   880;
+	5    :   89A;
+	6    :   8B3;
+	7    :   8CD;
+	8    :   8E7;
+	9    :   900;
+	10   :   91A;
+	11   :   933;
+	12   :   94C;
+	13   :   966;
+	14   :   97F;
+	15   :   998;
+	16   :   9B2;
+	17   :   9CB;
+	18   :   9E4;
+	19   :   9FD;
+	20   :   A16;
+	21   :   A2E;
+	22   :   A47;
+	23   :   A60;
+	24   :   A78;
+	25   :   A91;
+	26   :   AA9;
+	27   :   AC1;
+	28   :   AD9;
+	29   :   AF1;
+	30   :   B09;
+	31   :   B21;
+	32   :   B38;
+	33   :   B50;
+	34   :   B67;
+	35   :   B7E;
+	36   :   B96;
+	37   :   BAC;
+	38   :   BC3;
+	39   :   BDA;
+	40   :   BF0;
+	41   :   C07;
+	42   :   C1D;
+	43   :   C33;
+	44   :   C49;
+	45   :   C5E;
+	46   :   C74;
+	47   :   C89;
+	48   :   C9E;
+	49   :   CB3;
+	50   :   CC8;
+	51   :   CDC;
+	52   :   CF1;
+	53   :   D05;
+	54   :   D19;
+	55   :   D2C;
+	56   :   D40;
+	57   :   D53;
+	58   :   D66;
+	59   :   D79;
+	60   :   D8C;
+	61   :   D9E;
+	62   :   DB0;
+	63   :   DC2;
+	64   :   DD4;
+	65   :   DE6;
+	66   :   DF7;
+	67   :   E08;
+	68   :   E19;
+	69   :   E29;
+	70   :   E39;
+	71   :   E49;
+	72   :   E59;
+	73   :   E69;
+	74   :   E78;
+	75   :   E87;
+	76   :   E96;
+	77   :   EA4;
+	78   :   EB2;
+	79   :   EC0;
+	80   :   ECE;
+	81   :   EDB;
+	82   :   EE8;
+	83   :   EF5;
+	84   :   F02;
+	85   :   F0E;
+	86   :   F1A;
+	87   :   F26;
+	88   :   F31;
+	89   :   F3C;
+	90   :   F47;
+	91   :   F51;
+	92   :   F5C;
+	93   :   F66;
+	94   :   F6F;
+	95   :   F79;
+	96   :   F82;
+	97   :   F8A;
+	98   :   F93;
+	99   :   F9B;
+	100  :   FA3;
+	101  :   FAA;
+	102  :   FB1;
+	103  :   FB8;
+	104  :   FBF;
+	105  :   FC5;
+	106  :   FCB;
+	107  :   FD0;
+	108  :   FD6;
+	109  :   FDB;
+	110  :   FDF;
+	111  :   FE4;
+	112  :   FE8;
+	113  :   FEB;
+	114  :   FEF;
+	115  :   FF2;
+	116  :   FF5;
+	117  :   FF7;
+	118  :   FF9;
+	119  :   FFB;
+	120  :   FFC;
+	[121..122]  :   FFE;
+	[123..124]  :   FFF;
+END;
